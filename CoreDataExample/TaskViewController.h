@@ -16,6 +16,7 @@
     IBOutlet UITextField *dateEntered;
     IBOutlet UITextField *dateCompleted;
     IBOutlet UIButton *buttonCompleted;
+    
 }
 
 @property (nonatomic, retain)IBOutlet UIButton *buttonAddTask;
